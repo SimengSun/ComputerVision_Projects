@@ -25,7 +25,7 @@ Please see the report for more results.
 ## CNN feature detection
 ![alt text](https://github.com/SimengSun/ComputerVision_Projects/blob/master/3-ec.gif)
 
-## Face Swapping
+## Face Swapping in video (combined with optical flow)
 
 ![alt text](https://github.com/SimengSun/ComputerVision_Projects/blob/master/Swap%20Face/1.gif)
 ![alt text](https://github.com/SimengSun/ComputerVision_Projects/blob/master/Swap%20Face/2.gif)
