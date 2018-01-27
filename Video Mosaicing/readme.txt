@@ -1,0 +1,1 @@
+call_mosaic is the function that generates video based on frames provided in Video Frame. Please add Video Frame to path.
